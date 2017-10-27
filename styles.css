@@ -1,0 +1,33 @@
+.box {
+  border: 1px solid grey;
+  width: 330px;
+  height: auto;
+  border-color: grey;
+  box-shadow: 10px 10px 5px lightgrey;
+}
+.inner-box {
+  border: 1px solid grey;
+  width: 300px;
+  margin: auto;
+  margin-top: 15px;
+  margin-bottom: 15px;
+}
+.img-husky {
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+}
+h3 {
+  padding-left: 15px;
+  padding-top: 5px;
+}
+ul {
+  list-style-type: none;
+  padding-left: 0px;
+}
+.text-padding {
+  padding: 5px;
+}
+span {
+  font-weight: bold;
+}
